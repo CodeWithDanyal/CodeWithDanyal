@@ -54,7 +54,7 @@ Hey there! 👋 I'm Danyal Khan, a passionate Frontend Developer from Pakistan. 
 
 ---
 
-### 🖼️ 3D Contributions  
+### 🖼️ Contributions  
 ![3D Contributions](https://ghchart.rshah.org/CodeWithDanyal)
 
 ---
@@ -81,6 +81,7 @@ Hey there! 👋 I'm Danyal Khan, a passionate Frontend Developer from Pakistan. 
   <a href="https://www.linkedin.com/in/danyal-khan-836a02331" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/profile.php?id=61550478280417" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://github.com/CodeWithDanyal" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/codewithdanyal?t=6Te6khMkHaNEzIP1Lq_6lw&s=08" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
 ---
